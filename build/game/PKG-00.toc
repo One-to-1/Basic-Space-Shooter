@@ -1,0 +1,64 @@
+('C:\\Users\\Yatharth '
+ 'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\game.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Yatharth '
+   'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Yatharth '
+   'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Yatharth '
+   'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Yatharth '
+   'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Yatharth '
+   'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Yatharth '
+   'Jain\\Documents\\GitHub\\Basic-Space-Shooter\\build\\game\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Program '
+   'Files\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Program '
+   'Files\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Program '
+   'Files\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Program '
+   'Files\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Program '
+   'Files\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('Game',
+   'C:\\Users\\Yatharth Jain\\Documents\\GitHub\\Basic-Space-Shooter\\Game.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
